@@ -11,9 +11,9 @@ const Newsletter = () => {
             <div className="my-4">
                 <div className="flex flex-col sm:flex-row items-center justfiy-between w-full">
                     <input type="email" placeholder='Enter Email' className='p-3 flex w-full rounded-md text-black'/>
-                    <button className='bg-[#00df9a] w-[200px] rounded-md font-medium my-6 ml-4 px-6 py-3 text-black'>Notify Me</button>
+                    <button className='bg-[#F4CE14] w-[200px] rounded-md font-medium my-6 ml-4 px-6 py-3 text-black'>Notify Me</button>
                 </div>
-            <p>We care about the protection of your data. Read our <span className='text-[#00df9a]'>Privacy Policy.</span></p>
+            <p>We care about the protection of your data. Read our <span className='text-[#F4CE14]'>Privacy Policy.</span></p>
             </div>
         </div>
     </div>
